@@ -6,7 +6,13 @@ An interactive web map application for finding and displaying coordinates in Sri
 
 This project provides an interactive map of Sri Lanka that allows users to click anywhere on the map to display the exact latitude and longitude coordinates. It's a simple but useful tool for geographic reference, planning, or educational purposes.
 
-![Sri Lanka Map Preview](https://github.com/keerthisl/sri-lanka-interactive-coordinate-finder/raw/main/map_preview.png)
+![Sri Lanka Map Preview](/Folium_map_Sri_Lanka_2.png)
+
+## Location Highlight: Sigiriya
+
+Explore the rich geographical context of Sri Lanka through our interactive map. Here's a glimpse of the historic Sigiriya rock fortress:
+
+![Sigiriya Location](/Sigiriya_rock_fortress.jpeg)
 
 ## Features
 
